@@ -19,7 +19,7 @@ A modern, fully responsive website built with HTML, CSS. Designed to provide a s
 ![Tablet Screenshot](./screenshots/tablet.png)
 
 ### Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
+![Desktop Screenshot](./assets/img/Screenshot 2025-05-25 221524.png)
 
 ---
 
