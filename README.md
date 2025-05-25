@@ -5,25 +5,17 @@ A modern, fully responsive website built with HTML, CSS. Designed to provide a s
 ---
 
 <div align="center">
-  <img src="assets/img/Screenshot 2025-05-25 221524.png" alt="Project Screenshot" width="700"/>
+  ![Desktop Screenshot]<img src="assets/img/Screenshot 2025-05-25 221524.png" alt="Project Screenshot" width="700"/>
 </div>
+<div align="center">
+![Tablet Screenshot]<img src="assets/img/Screenshot 2025-05-25 222242.png" alt="Project Screenshot" width="700"/>
+</div>
+
+
 
 ## 🔗 Live Demo
 
 👉 [Click here to view the live site](https://your-demo-link.com)
-
----
-
-## 📸 Screenshots
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
-
-### Tablet View
-![Tablet Screenshot](./screenshots/tablet.png)
-
-### Desktop View
-![Desktop Screenshot](./assets/img/Screenshot 2025-05-25 221524.png)
 
 ---
 
