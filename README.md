@@ -4,6 +4,10 @@ A modern, fully responsive website built with HTML, CSS. Designed to provide a s
 
 ---
 
+<div align="center">
+  <img src="" alt="Project Screenshot" width="700"/>
+</div>
+
 ## 🔗 Live Demo
 
 👉 [Click here to view the live site](https://your-demo-link.com)
