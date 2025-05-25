@@ -5,10 +5,10 @@ A modern, fully responsive website built with HTML, CSS. Designed to provide a s
 ---
 
 <div align="center">
-  ![Desktop Screenshot]<img src="assets/img/Screenshot 2025-05-25 221524.png" alt="Project Screenshot" width="700"/>
+<img src="assets/img/Screenshot 2025-05-25 221524.png" alt="Project Screenshot" width="700"/>
 </div>
 <div align="center">
-![Tablet Screenshot]<img src="assets/img/Screenshot 2025-05-25 222242.png" alt="Project Screenshot" width="700"/>
+<img src="assets/img/Screenshot 2025-05-25 222242.png" alt="Project Screenshot" width="700"/>
 </div>
 
 
