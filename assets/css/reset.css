@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter Tight", sans-serif;
+}
+
+.card {
+    width: 23%;
+    height: 100%;
+    padding: 10px;
+    background-color: var(--bg-color);
+    backdrop-filter: blur(200px);
+    border-radius: 20px;
+    color: rgb(56, 53, 53);
+}
+
+.btn {
+    padding: 10px 35px;
+    border-radius: 50px;
+    background-color: var(--bg-color);
+    text-decoration: none;
+    color: white;
+}
+
+:root {
+    --bg-filter: blur(200px);
+    --bg-color: rgba(255, 255, 255, 0.221);
+    --text-color: #df3c01;
+    --bg: #042a37;
+    --bg-border: rgba(101, 101, 101, 0.315);
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
